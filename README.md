@@ -1,5 +1,9 @@
 # DalamudPluginRepo
-Custom [FFXIVQuickLauncher](https://github.com/goaaats/FFXIVQuickLauncher) plugin repository.  Don't use plugins in this repo that exist in the built-in Dalamud plugin repo unless there's a good reason to do so.  As of this writing, there's only one plugin here, because I don't know when (**or if**, although I don't see how it's that controversial of a plugin) it will get accepted to the main repo.
+Custom [FFXIVQuickLauncher](https://github.com/goaaats/FFXIVQuickLauncher) plugin repository.  Don't use plugins in this repo that exist in the built-in Dalamud plugin repo unless there's a good reason to do so.
+
+This repository contains the following plugins (and why they're here):
+* [CIDNamer](https://github.com/PunishedPineapple/CIDNamer): This is intended for use with offline tools, so it could never be in the main Dalamud repo as-is.
+* [Distance](https://github.com/PunishedPineapple/Distance): This is waiting indefinitely for inclusion in the main Dalamud repo, presumably until rules for "Combat Plugins" are finalized.
 
 ## Installation
 ![image](https://user-images.githubusercontent.com/50609717/163707555-e3e8a9cf-fea6-4a39-93f9-e9a98f2c1157.png)
