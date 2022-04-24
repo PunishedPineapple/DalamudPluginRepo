@@ -5,7 +5,7 @@
         "Punchline": "Content ID -> Character Name Mapping",
         "Description": "Maps the content ID (i.e., number used in your character settings folder name) to the character name and server.  Only works for characters to which you log in.",
         "InternalName": "CIDNamer",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.0.1",
         "RepoUrl": "https://github.com/PunishedPineapple/CIDNamer",
         "ApplicableVersion": "any",
         "Tags": [
@@ -21,7 +21,7 @@
         "DownloadLinkTesting": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/CIDNamer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/CIDNamer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1650771781"
+        "LastUpdate": "1650784159"
     },
     {
         "Author": "PunishedPineapple",
@@ -54,6 +54,6 @@
         "DownloadLinkTesting": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/Distance/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/Distance/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1650771781"
+        "LastUpdate": "1650784159"
     }
 ]
