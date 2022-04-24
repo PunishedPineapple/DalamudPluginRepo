@@ -1,6 +1,30 @@
 [
     {
         "Author": "PunishedPineapple",
+        "Name": "CIDNamer",
+        "Punchline": "Content ID -> Character Name Mapping",
+        "Description": "Maps the content ID (i.e., number used in your character settings folder name) to the character name and server.  Only works for characters to which you log in.",
+        "InternalName": "CIDNamer",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/PunishedPineapple/CIDNamer",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Settings",
+            "Utility"
+        ],
+        "DalamudApiLevel": 6,
+        "IconUrl": "https://github.com/PunishedPineapple/CIDNamer/raw/main/docs/Images/icon.png",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/CIDNamer/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/CIDNamer/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/CIDNamer/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1650771781"
+    },
+    {
+        "Author": "PunishedPineapple",
         "Name": "Distance",
         "Punchline": "Target distance widgets.",
         "Description": "Displays the distance in yalms to the target (or optionally to the target's ring), and can display distance until aggro range for supported bosses.",
@@ -30,6 +54,6 @@
         "DownloadLinkTesting": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/Distance/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/Distance/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1650186406"
+        "LastUpdate": "1650771781"
     }
 ]
