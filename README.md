@@ -4,7 +4,7 @@ Custom [FFXIVQuickLauncher](https://github.com/goaaats/FFXIVQuickLauncher) plugi
 This repository contains the following plugins (and why they're here):
 * [CIDNamer](https://github.com/PunishedPineapple/CIDNamer): This is intended for use with offline tools, so it could never be in the main Dalamud repo as-is.
 * ~~[Distance](https://github.com/PunishedPineapple/Distance): This is waiting indefinitely for inclusion in the main Dalamud repo, presumably until rules for "Combat Plugins" are finalized.~~ This has been merged into Dalamud plugin testing.
-* [HP Difference Gauge](https://github.com/PunishedPineapple/HPDiff): Assuming this would get poopoo'd on the main repo since the intended use is mostly DSR/TEA.  Even if not, I don't want to wait forever for a "combat plugin" to be debated on the main repo when this is a relatively specific and simple plugin that's not intended to be super polished.
+* [HP Difference Gauge](https://github.com/PunishedPineapple/HPDiff): Assuming this would get poopoo'd on the main repo since the intended use is mostly DSR/TEA.  Even if not, this is a relatively specific and simple plugin that's not intended to be super polished.
 
 ## Installation
 ![image](https://user-images.githubusercontent.com/50609717/163707555-e3e8a9cf-fea6-4a39-93f9-e9a98f2c1157.png)
